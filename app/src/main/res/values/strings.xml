@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bank Papua</string>
+    <string name="text_beranda">Bank Papua menyediakan transaksi secara Tunai yang tentunya aman dan nyaman</string>
+    <string name="text_home">Menjadi Bank Regional yang kuat, terpercaya, berdaya saing, dan mendukung pembangunan ekonomi di Tanah Papua</string>
+    <string name="masuk">Masuk</string>
+    <string name="banking_mobile">Banking Mobile</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  * Bank Papua
+  * https://www.instagram.com/adityatprtma/
+  * Created on 03-maret-2021.
+  * Created by : Adityatprtma
+   -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_splash"
+    tools:context="com.example.bankpapua.Spalsh_Screen">
+
+    <ImageView
+        android:layout_marginTop="-100dp"
+        android:id="@+id/icon"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:layout_centerInParent="true"/>
+
+</RelativeLayout>
